@@ -7,5 +7,5 @@ setup(name="Yolov5Model",
       author="Diego De Quintal",
       authoer_email="diego.dequintal@newtoms.com",
       url='https://github.com/diegodequintal/Yolov5_DeepSort_Pytorch',
-      packages=['yolov5','deep_sort','MOT16_eval']
+      packages=['yolov5','deep_sort','utils','models','data']
 )
