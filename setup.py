@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(name="Yolov5Model",
       version="1.0.0",
